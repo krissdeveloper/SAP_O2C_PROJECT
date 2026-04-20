@@ -124,5 +124,5 @@ Open `dashboard/index.html` in any web browser — no server needed!
 ---
 
 ## 👤 Author
-**Capstone Project — SAP Data Analytics Engineer / SAP Business Data Cloud**  
-KIIT · Batch: 2024–25
+**Krishnamachari Rout :- Capstone Project — SAP Data Analytics Engineer / SAP Business Data Cloud**  
+KIIT · Batch: 2023–27
