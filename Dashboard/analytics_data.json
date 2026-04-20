@@ -1,0 +1,259 @@
+{
+  "summary": {
+    "total_orders": 520,
+    "gross_revenue": 541666367.0,
+    "avg_order_value": 1041666.0,
+    "cancelled_orders": 24,
+    "completed_orders": 459,
+    "fulfillment_rate": 88.3
+  },
+  "monthly": {
+    "labels": [
+      "2024-01",
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-06",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12",
+      "2025-01",
+      "2025-02",
+      "2025-03"
+    ],
+    "revenue": [
+      40673574.0,
+      38869247.0,
+      38080471.0,
+      36112948.0,
+      41499179.0,
+      23750893.0,
+      38999178.0,
+      28598334.0,
+      31860098.0,
+      35358071.0,
+      39922609.0,
+      32635763.0,
+      33190785.0,
+      32072496.0,
+      33674702.0
+    ],
+    "orders": [
+      38,
+      40,
+      31,
+      31,
+      39,
+      28,
+      29,
+      35,
+      30,
+      34,
+      34,
+      33,
+      36,
+      25,
+      33
+    ]
+  },
+  "region": {
+    "labels": [
+      "South",
+      "West",
+      "North",
+      "East"
+    ],
+    "revenue": [
+      166184767.0,
+      158688382.0,
+      102389080.0,
+      98036119.0
+    ],
+    "orders": [
+      157,
+      154,
+      99,
+      86
+    ]
+  },
+  "top_customers": {
+    "labels": [
+      "Delta Software Pvt Ltd",
+      "BlueStar Systems",
+      "HCL Systems Pvt Ltd",
+      "TCS Enterprises",
+      "KPIT Technologies",
+      "Wipro Technologies",
+      "Mastech Digital",
+      "Mphasis Solutions",
+      "Sigma Infotech",
+      "Ratan IT Solutions"
+    ],
+    "revenue": [
+      40345696.0,
+      37175673.0,
+      35232688.0,
+      34652749.0,
+      32416176.0,
+      31103936.0,
+      30071863.0,
+      27625822.0,
+      27618560.0,
+      26611684.0
+    ],
+    "orders": [
+      36,
+      36,
+      34,
+      30,
+      26,
+      28,
+      26,
+      24,
+      24,
+      26
+    ]
+  },
+  "categories": {
+    "labels": [
+      "Laptops",
+      "Desktops",
+      "Printers",
+      "Networking",
+      "Monitors",
+      "Peripherals",
+      "Power",
+      "Storage",
+      "Software"
+    ],
+    "revenue": [
+      253564960.0,
+      83733160.0,
+      60986860.0,
+      46379975.0,
+      32402020.0,
+      15654708.0,
+      14745960.0,
+      14258815.0,
+      3571890.0
+    ],
+    "units": [
+      3173,
+      1753,
+      1647,
+      2264,
+      1584,
+      2530,
+      860,
+      1757,
+      902
+    ]
+  },
+  "status": {
+    "labels": [
+      "Completed",
+      "Delivered",
+      "In Transit",
+      "Cancelled"
+    ],
+    "counts": [
+      398,
+      61,
+      37,
+      24
+    ]
+  },
+  "delivery": {
+    "labels": [
+      "Delhivery",
+      "FedEx India",
+      "BlueDart",
+      "DTDC"
+    ],
+    "avg_days": [
+      6.4,
+      6.6,
+      6.7,
+      6.7
+    ],
+    "shipments": [
+      113,
+      127,
+      137,
+      119
+    ]
+  },
+  "payment": {
+    "labels": [
+      "Overdue",
+      "Paid On Time"
+    ],
+    "counts": [
+      144,
+      315
+    ],
+    "totals": [
+      168735864.0,
+      408442486.0
+    ]
+  },
+  "top_products": {
+    "labels": [
+      "Apple MacBook Air M2",
+      "HP EliteBook 840 G10",
+      "Dell Latitude 5540 Laptop",
+      "Lenovo ThinkPad E14",
+      "Lenovo ThinkCentre Desktop",
+      "Canon ImageRunner 2625i",
+      "Cisco Catalyst 2960 Switch",
+      "Dell OptiPlex 5000 Desktop"
+    ],
+    "revenue": [
+      81275160.0,
+      62515800.0,
+      54961920.0,
+      54812080.0,
+      50544520.0,
+      44237600.0,
+      34008300.0,
+      33188640.0
+    ],
+    "units": [
+      757,
+      767,
+      796,
+      853,
+      1021,
+      853,
+      796,
+      732
+    ]
+  },
+  "quarterly": {
+    "labels": [
+      "2024Q1",
+      "2024Q2",
+      "2024Q3",
+      "2024Q4",
+      "2025Q1"
+    ],
+    "revenue": [
+      117623292.0,
+      101363020.0,
+      99457610.0,
+      107916443.0,
+      98937983.0
+    ],
+    "orders": [
+      109,
+      98,
+      94,
+      101,
+      94
+    ]
+  }
+}
