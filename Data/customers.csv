@@ -1,0 +1,21 @@
+customer_id,customer_name,region,city,credit_limit,payment_terms
+C001,Infosys Limited,South,Bengaluru,2000000,Net 30
+C002,Wipro Technologies,South,Bengaluru,1800000,Net 30
+C003,TCS Enterprises,West,Mumbai,2500000,Net 45
+C004,HCL Systems Pvt Ltd,North,Noida,1500000,Net 30
+C005,Tech Mahindra,West,Pune,1600000,Net 30
+C006,Mphasis Solutions,South,Chennai,900000,Net 15
+C007,L&T Infotech,West,Mumbai,1200000,Net 45
+C008,Mindtree Technologies,South,Bengaluru,800000,Net 30
+C009,Hexaware Technologies,West,Navi Mumbai,700000,Net 30
+C010,Zensar Technologies,West,Pune,600000,Net 15
+C011,NIIT Technologies,North,Gurugram,500000,Net 30
+C012,Persistent Systems,West,Pune,750000,Net 30
+C013,Cyient Limited,South,Hyderabad,650000,Net 30
+C014,Mastech Digital,East,Kolkata,400000,Net 15
+C015,KPIT Technologies,West,Pune,850000,Net 30
+C016,Ratan IT Solutions,North,Delhi,1100000,Net 45
+C017,Sigma Infotech,East,Bhubaneswar,350000,Net 15
+C018,BlueStar Systems,South,Coimbatore,480000,Net 30
+C019,Apex Digital Corp,North,Chandigarh,560000,Net 30
+C020,Delta Software Pvt Ltd,East,Guwahati,300000,Net 15

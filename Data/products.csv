@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,unit,hsn_code
+MAT001,Dell Latitude 5540 Laptop,Laptops,72000,EA,84713010
+MAT002,HP EliteBook 840 G10,Laptops,85000,EA,84713010
+MAT003,Lenovo ThinkPad E14,Laptops,68000,EA,84713010
+MAT004,Apple MacBook Air M2,Laptops,114000,EA,84713010
+MAT005,"Samsung 27"" 4K Monitor",Monitors,28000,EA,85285200
+MAT006,"LG 24"" Full HD Monitor",Monitors,14000,EA,85285200
+MAT007,Cisco Catalyst 2960 Switch,Networking,45000,EA,85176200
+MAT008,TP-Link WiFi 6 Router,Networking,12000,EA,85176200
+MAT009,HP LaserJet Pro M404dn,Printers,22000,EA,84433200
+MAT010,Canon ImageRunner 2625i,Printers,55000,EA,84433200
+MAT011,Seagate 4TB External HDD,Storage,7500,EA,84717050
+MAT012,Samsung 1TB NVMe SSD,Storage,9500,EA,84717050
+MAT013,APC 1500VA UPS,Power,18000,EA,85044010
+MAT014,Logitech MX Master 3 Mouse,Peripherals,4200,EA,84716060
+MAT015,Corsair Mechanical Keyboard,Peripherals,6500,EA,84716060
+MAT016,Lenovo ThinkCentre Desktop,Desktops,52000,EA,84714900
+MAT017,Dell OptiPlex 5000 Desktop,Desktops,48000,EA,84714900
+MAT018,Jabra Evolve2 Headset,Peripherals,8500,EA,85183000
+MAT019,D-Link 24-Port Patch Panel,Networking,5500,EA,85176200
+MAT020,Microsoft Office 365 (1 Year),Software,4200,LIC,99831100
